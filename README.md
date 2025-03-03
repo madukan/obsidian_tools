@@ -1,2 +1,2 @@
 # obsidian_tools
-Tools to help Obsidian
+Tools to help Obsidian more versatile
